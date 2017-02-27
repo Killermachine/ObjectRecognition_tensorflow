@@ -1,0 +1,9 @@
+JOHN START 0
+ USING *,15
+ MACRO 
+ INCR &ARG
+ A 1,&ARG
+ A 2,&ARG
+ A 3,&ARG
+ MEND 
+ END 

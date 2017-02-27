@@ -1,0 +1,8 @@
+START	_start()
+DC	_dcds()
+DS	_dcds()
+LTORG	_lit()
+END	_end()
+EQU	_equ()
+DROP	_drop()
+USING	_using()
